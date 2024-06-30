@@ -1,0 +1,1 @@
+{"candidates_max_value": 3, "produce_debug_state": false, "use_deepspeed": false, "kv_cache": true, "half_precision": false}
